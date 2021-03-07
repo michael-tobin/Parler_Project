@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-02-25">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="@Skywalker3689" label="@Skywalker3689" />
+      <node id="@ganchito64" label="@ganchito64" />
+      <node id="@benjaefe" label="@benjaefe" />
+      <node id="@PacoUDS23" label="@PacoUDS23" />
+      <node id="@SkyOvidiu" label="@SkyOvidiu" />
+      <node id="@pinochet0" label="@pinochet0" />
+      <node id="@liberalesooc" label="@liberalesooc" />
+      <node id="@Ozlook" label="@Ozlook" />
+      <node id="@Silvertario" label="@Silvertario" />
+      <node id="@baldomero" label="@baldomero" />
+      <node id="@LibSellsword" label="@LibSellsword" />
+      <node id="@raquel98" label="@raquel98" />
+      <node id="@alexbermu" label="@alexbermu" />
+      <node id="@Elcaudillo96" label="@Elcaudillo96" />
+      <node id="@usuariobasado88" label="@usuariobasado88" />
+      <node id="@Bukymei" label="@Bukymei" />
+      <node id="@MinVerdadES" label="@MinVerdadES" />
+      <node id="@FranTomto" label="@FranTomto" />
+      <node id="@Trumpisawhitesupremecist" label="@Trumpisawhitesupremecist" />
+      <node id="@Jadiez98" label="@Jadiez98" />
+      <node id="@77yamadog" label="@77yamadog" />
+    </nodes>
+    <edges>
+      <edge source="@Skywalker3689" target="@PacoUDS23" id="0" />
+      <edge source="@ganchito64" target="@alexbermu" id="1" />
+      <edge source="@ganchito64" target="@Trumpisawhitesupremecist" id="2" />
+      <edge source="@ganchito64" target="@baldomero" id="3" />
+      <edge source="@ganchito64" target="@Elcaudillo96" id="4" />
+      <edge source="@ganchito64" target="@pinochet0" id="5" />
+      <edge source="@benjaefe" target="@Bukymei" id="6" />
+      <edge source="@benjaefe" target="@LibSellsword" id="7" />
+      <edge source="@benjaefe" target="@Silvertario" id="8" />
+      <edge source="@benjaefe" target="@Ozlook" id="9" />
+      <edge source="@PacoUDS23" target="@Trumpisawhitesupremecist" id="10" />
+      <edge source="@PacoUDS23" target="@usuariobasado88" id="11" />
+      <edge source="@SkyOvidiu" target="@Bukymei" id="12" />
+      <edge source="@liberalesooc" target="@FranTomto" id="13" />
+      <edge source="@liberalesooc" target="@Bukymei" id="14" />
+      <edge source="@liberalesooc" target="@LibSellsword" id="15" />
+      <edge source="@LibSellsword" target="@usuariobasado88" id="16" />
+      <edge source="@raquel98" target="@usuariobasado88" id="17" />
+      <edge source="@raquel98" target="@Jadiez98" id="18" />
+      <edge source="@raquel98" target="@77yamadog" id="19" />
+      <edge source="@alexbermu" target="@usuariobasado88" id="20" />
+      <edge source="@MinVerdadES" target="@Trumpisawhitesupremecist" id="21" />
+    </edges>
+  </graph>
+</gexf>
