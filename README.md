@@ -20,7 +20,7 @@ Graduate research project at SDSU
             <li>nodes.txt</li>
             <li>subgraph.gexf</li>
             <li>processed.1850k.jsonl.gz</li>
-      </ul>
+          </ul></ul>
     </li>
     <li>/html
         <ul>
