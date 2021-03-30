@@ -14,6 +14,8 @@ Graduate research project at SDSU
     </li>
     <li>/Graph        
       <ul>
+          /Graph_Components
+            <ul>
             <li>edges.txt</li>
             <li>nodes.txt</li>
             <li>subgraph.gexf</li>
